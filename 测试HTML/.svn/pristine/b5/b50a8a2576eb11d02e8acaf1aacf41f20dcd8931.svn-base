@@ -1,0 +1,35 @@
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<title>
+			上海青浦区人大业务平台
+		</title>
+		<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta name="format-detection" content="telephone=no">
+		
+		
+		<style>
+			img {
+				vertical-align: middle;
+				border: 0;
+			}
+			
+			html {
+				font-family: sans-serif;
+				-webkit-text-size-adjust: 100%;
+			}
+			
+			body {
+				margin: 0;
+			}
+		</style>
+	</head>
+
+	<body>
+		<a><img style="width:100%;height:auto;" src="weixintips.png"></a>
+	</body>
+
+</html>

@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>上海青浦区人大业务平台</title>
+</head>
+
+<body>
+	<br>
+	<br>
+	<br>
+
+	<TABLE style=\ "BORDER-LEFT-WIDTH: 0px; BORDER-COLLAPSE:
+		collapse; BORDER-RIGHT-WIDTH: 0px\" borderColor=#ff6600
+		bgColor=#DFFFDF cellSpacing=0 cellPadding=0 align=center border=1
+		width='100%'>
+		<TBODY>
+			<tr>
+				<TD style=\ "BORDER-RIGHT: medium none; BORDER-LEFT: medium
+					none; BORDER-BOTTOM: mediumnone\"><br> <br> <a
+					href="itms-services://?action=download-manifest&url=https://oa.epoint.com.cn:8443/iOSDeploy/shanghai/qingpu/rd/iphone.plist"><font
+						size=18>上海青浦区人大业务平台(iphone)</font></a> <br>
+						</TD>
+						
+			</tr>
+			<tr>
+				<TD style=\ "BORDER-RIGHT: medium none; BORDER-LEFT: medium
+					none; BORDER-BOTTOM: mediumnone\"><br> <br> <a
+					href="http://218.83.246.43:8088/EpointMobilePlatform_RD/mobileconfig/updateclient/android_phone.apk"><font
+						size=18>上海青浦区人大业务平台(Android手机)</font></a> <br> <br></TD>
+			</tr>
+			<tr>
+				<TD style=\ "BORDER-RIGHT: medium none; BORDER-LEFT: medium
+					none; BORDER-BOTTOM: mediumnone\"><br> <br> <font
+					size=18 color=red> 注意：iphone版必须在iPhone手机上用Safari浏览器访问此页面安装 </font>
+					<br> <br></TD>
+			</tr>
+		</TBODY>
+</body>
+</html>
